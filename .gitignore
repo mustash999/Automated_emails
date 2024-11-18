@@ -1,0 +1,11 @@
+p_post/
+panpost_office/
+msgs_to_send/
+output.xlsx
+_old/
+to_send/
+Archive/
+tests/
+.env
+```
+```
